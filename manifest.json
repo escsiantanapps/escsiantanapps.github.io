@@ -1,7 +1,7 @@
 {
   "name": "Sistem Manajemen Volunteer",
-  "short_name": "App Relawan",
-  "description": "Aplikasi manajemen relawan gereja",
+  "short_name": "App Volunteer",
+  "description": "Aplikasi Management Volunteers",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
