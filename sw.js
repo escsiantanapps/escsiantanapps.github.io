@@ -1,4 +1,4 @@
-const CACHE_NAME = 'relawan-app-v1';
+const CACHE_NAME = 'relawan-app-v2';
 const urlsToCache = [
   '/',
   '/index.html',
